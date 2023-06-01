@@ -61,6 +61,10 @@ put first sidebar before content
     background-color: red;
 }
 
+/* .holy-grail header {
+    position: fixed;
+} */
+
 .hg-sidebar {
     background-color: blue;
 }
@@ -93,7 +97,10 @@ flex: 0 0 200px;
 
 .holy-grail-sidebar-1,
 .holy-grail-sidebar-2 {
-    background-image: url(CharlesCabo.jpeg);
-    background-size: 200px;
+    /* background-image: url(CharlesCabo.jpeg); */
+    /* background-size: 200px; */
 }
 
+#Charles-1 {
+     background-size: 400px;
+}
