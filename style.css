@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    font-size: 1.3em;
+    text-align: center;
+}
+
+.holy-grail header {
+    padding: 0, 20px;
+}
+
+.holy-grail footer,
+.hg-sidebar,
+.holy-grail-content {
+    padding: 25px;
+}
+
+.holy-grail header,
+.holy-grail footer {
+    background-color: red;
+}
+
+.hg-sidebar {
+    background-color: black;
+}
+
+.holy-grail-content {
+    background-color: aqua;
+}
+
+.holy-grail {
+    min-height: 100vh;
+}
+
+
+
+
+
+
+
