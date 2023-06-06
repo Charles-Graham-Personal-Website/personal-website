@@ -102,5 +102,7 @@ flex: 0 0 200px;
 /* } */
 
 #Charles-1 {
-     background-size: 400px;
+     display: flex;
+     /* align-items: center; */
+     justify-content: ; 
 }
