@@ -151,6 +151,19 @@ h1 {
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
+}
+
+.zion {
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
 }
 
 .container-1 {
