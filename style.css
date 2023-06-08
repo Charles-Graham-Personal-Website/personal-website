@@ -147,6 +147,17 @@ h1 {
 }
 
 .cabo {
-    width: 400px;
-
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.Brycecanyon {
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
